@@ -1,0 +1,71 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>日记 - Category - My New Hugo Site</title>
+        <link>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+        <description>日记 - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 May 2024 00:08:12 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+    <title>开建明</title>
+    <link>http://localhost:1313/posts/fifth_post/</link>
+    <pubDate>Mon, 20 May 2024 00:08:12 &#43;0800</pubDate>
+    <author>开建明</author>
+    <guid>http://localhost:1313/posts/fifth_post/</guid>
+    <description><![CDATA[邓紫棋的歌词，快来看快来看]]></description>
+</item>
+<item>
+    <title>憨憨</title>
+    <link>http://localhost:1313/posts/six_post/</link>
+    <pubDate>Mon, 20 May 2024 00:08:12 &#43;0800</pubDate>
+    <author>葛憨憨</author>
+    <guid>http://localhost:1313/posts/six_post/</guid>
+    <description><![CDATA[我的一天]]></description>
+</item>
+<item>
+    <title>葛稳</title>
+    <link>http://localhost:1313/posts/eight_post/</link>
+    <pubDate>Mon, 20 May 2024 00:08:12 &#43;0800</pubDate>
+    <author>葛稳大憨熊</author>
+    <guid>http://localhost:1313/posts/eight_post/</guid>
+    <description><![CDATA[葛稳大汉熊]]></description>
+</item>
+<item>
+    <title>小核桃</title>
+    <link>http://localhost:1313/posts/seven_post/</link>
+    <pubDate>Mon, 20 May 2024 00:08:07 &#43;0800</pubDate>
+    <author>葛稳小号</author>
+    <guid>http://localhost:1313/posts/seven_post/</guid>
+    <description><![CDATA[之子泛舟]]></description>
+</item>
+<item>
+    <title>仝轩昊</title>
+    <link>http://localhost:1313/posts/third_post/</link>
+    <pubDate>Sun, 19 May 2024 23:40:06 &#43;0800</pubDate>
+    <author>小仝</author>
+    <guid>http://localhost:1313/posts/third_post/</guid>
+    <description><![CDATA[赵毅说得对			等死吧			告辞]]></description>
+</item>
+<item>
+    <title>朱禹衡</title>
+    <link>http://localhost:1313/posts/fourth_post/</link>
+    <pubDate>Sun, 19 May 2024 22:41:28 &#43;0800</pubDate>
+    <author>常剑硕的儿子</author>
+    <guid>http://localhost:1313/posts/fourth_post/</guid>
+    <description><![CDATA[赵毅说的对			小仝说得对			告辞]]></description>
+</item>
+<item>
+    <title>袁赵毅</title>
+    <link>http://localhost:1313/posts/second_post/</link>
+    <pubDate>Sun, 19 May 2024 22:35:00 &#43;0800</pubDate>
+    <author>son of CJS</author>
+    <guid>http://localhost:1313/posts/second_post/</guid>
+    <description><![CDATA[没救了			等死吧			告辞]]></description>
+</item>
+<item>
+    <title>常剑硕</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Sun, 19 May 2024 21:24:14 &#43;0800</pubDate>
+    <author>ChangJS</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[这是常剑硕的博客]]></description>
+</item>
+</channel>
+</rss>

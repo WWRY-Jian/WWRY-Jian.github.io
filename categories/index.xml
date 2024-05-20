@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - My New Hugo Site</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Categories - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 May 2024 00:08:12 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>日记</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+    <pubDate>Mon, 20 May 2024 00:08:12 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>随想</title>
+    <link>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</link>
+    <pubDate>Mon, 20 May 2024 00:08:12 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>文章</title>
+    <link>http://localhost:1313/categories/%E6%96%87%E7%AB%A0/</link>
+    <pubDate>Sun, 19 May 2024 22:41:28 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/%E6%96%87%E7%AB%A0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
